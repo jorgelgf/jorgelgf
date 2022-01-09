@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou o Jorge Gurgel</h1>
+<h1> Olá! Eu sou o Jorge Gurgel <img height='60' witdh='60'src ='https://i.ibb.co/Y3T1gxn/hi.png' alt='jorge-hi'/></h1>
 <br/>
 
 - 🔭 Trabalho atualmente como Consultor de Relacionamentos - Nível 2 - Setor do Service Desk
@@ -44,6 +44,8 @@
    
    <h2>Fale comigo através dos canais</h2><br/> 
     
- <a href="mailto:jlgurgelfernandes@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"><a/><a href="https://wa.me/55996222469" target="_blank"> <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"><a/><a href="https://www.linkedin.com/in/jorgelgf/" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/><a href="https://www.instagram.com/jorgeluisgurgel/" target="_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"><a/>  
+ <a href="mailto:jlgurgelfernandes@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"><a/><a href="https://wa.me/55996222469" target="_blank"> <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"><a/><a href="https://www.linkedin.com/in/jorgelgf/" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/><a href="https://www.instagram.com/jorgeluisgurgel/" target="_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"><a/>  <img height='60' witdh='60' src='https://i.ibb.co/Hqvn4V3/bye.png' alt='jorge-bye'/>
     
 
+   
+  
