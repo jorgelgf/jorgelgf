@@ -32,7 +32,7 @@
     
    <h3>Algumas conquistas</h3><br/> 
    
-   | <b>Conquista</b> |<b> Informações</b> |
+   | <b>Conquistas</b> |<b> Informações</b> |
 | --- | --- |
 | Tecnólogo em Redes de Computadores | Uni Nassau - 2013 |
 | Técnico em Eletrônica | UFRN - 2015 |
