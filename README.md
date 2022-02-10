@@ -21,8 +21,7 @@
   <img align="center" alt="Jorge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jorge-Linux" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-  <img align="center" alt="Jorge-Debian" height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/246/premium/246118.png?token=exp=1641339426~hmac=fb5fa15aef77b19195e14ff19c7b37f8">  
+  <img align="center" alt="Jorge-Linux" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"> 
      <img align="center" alt="Jorge-Ardour" height="30" width="30" src="https://www.ubuntufree.com/wp-content/uploads/2017/09/Ardour-Official-Logo.png">
   <img align="center" alt="Jorge-Gimp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg">
     <img align="center" alt="Jorge-Inkscape" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/inkscape_logo_icon_145169.png">
