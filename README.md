@@ -1,7 +1,7 @@
 <h1> Olá! Eu sou o Jorge Gurgel <img height='60' witdh='60'src ='https://i.ibb.co/Y3T1gxn/hi.png' alt='jorge-hi'/></h1>
 <br/>
 
-- 🔭 Trabalho atualmente como Consultor de Relacionamentos - Nível 2 - Setor do Service Desk
+- 🔭 Trabalho atualmente como Analista de Suporte Jr - Setor do Service Desk
 - 🌱 Estou estudando JS, ReactJS, CSS, tecnologias que envolvem desenvolvimento WEB
 - 💬 Sou apaixonado por música e tecnologia
 <br/>
