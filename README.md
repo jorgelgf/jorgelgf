@@ -2,27 +2,19 @@
 <br/>
 
 - 🔭 Trabalho atualmente como Analista de Suporte Jr - Setor do Service Desk
-- 🌱 Estou estudando JS, ReactJS, CSS, tecnologias que envolvem desenvolvimento WEB
+- 🌱 Estou estudando tecnologias que envolvem desenvolvimento WEB
 - 💬 Sou apaixonado por música e tecnologia
-  
- <h3>O que gosto de usar<h3/><br/> 
-<div>
-        <img align="center" alt="Jorge-Nextjs" height="30" width="30" src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png">
-   <img align="center" alt="Jorge-Node" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> <img align="center" alt="Jorge-Postgre" height="30" width="30" src="https://user-images.githubusercontent.com/47546263/188330116-b57bb29b-2160-4df1-a9c7-1d4433f1bdca.png">   
-<img align="center" alt="Jorge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jorge-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jorge-Linux" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"> 
-     <img align="center" alt="Jorge-Ardour" height="30" width="30" src="https://www.ubuntufree.com/wp-content/uploads/2017/09/Ardour-Official-Logo.png">
-  <img align="center" alt="Jorge-Gimp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg">
-    <img align="center" alt="Jorge-Inkscape" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/inkscape_logo_icon_145169.png">
+ 
+ <h3>O que gosto de usar<h3/>
 
-
-      
-  </div> 
- <br/><br/>   
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     
    <h3>Algumas conquistas</h3><br/> 
    
@@ -39,7 +31,9 @@
    
    <h2>Fale comigo através dos canais</h2><br/> 
     
- <a href="mailto:jlgurgelfernandes@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"><a/><a href="https://wa.me/55996222469" target="_blank"> <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"><a/><a href="https://www.linkedin.com/in/jorgelgf/" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/><a href="https://www.instagram.com/jorgeluisgurgel/" target="_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"><a/>  <img height='60' witdh='60' src='https://i.ibb.co/Hqvn4V3/bye.png' alt='jorge-bye'/>
+ <a href="mailto:jlgurgelfernandes@gmail.com" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"><a/>
+ <a href="https://wa.me/55996222469" target="_blank"> <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"><a/>
+ <a href="https://www.linkedin.com/in/jorgelgf/" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/><img height='60' witdh='60' src='https://i.ibb.co/Hqvn4V3/bye.png' alt='jorge-bye'/>
     
 
    
