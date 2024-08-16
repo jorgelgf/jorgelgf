@@ -32,7 +32,9 @@
 | 1° Concurso BBTecno | Primeiro lugar no concurso BBtecnologia 2015 - <a href="https://bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf" >publicação<a> Pg 21|
 | Bacharelando C&T com ênfase na Eng. da Computação | UFRN - trancado |
 | Bootcamp - Impulso React Web DeveloperBootcamp | Digital Innovation One Inc - 2021 |
-| Pós Graduação em Engenharia de Software | UniAmerica - cursando |
+| Pós Graduação em Engenharia de Software | UniAmerica - 2024 |
+| Pós Graduação em Desenvolvimento FullStack  | UniAmerica - Cursando |
+
    
    <br/>   <br/>
    
